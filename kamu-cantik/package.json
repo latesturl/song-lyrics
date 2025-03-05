@@ -1,11 +1,11 @@
 {
-  "name": "kamu_cantik",
+  "name": "kamu-cantik",
   "version": "1.0.0",
   "description": "up",
-  "main": "kamu_cantik.js",
+  "main": "kamu-cantik.js",
   "type": "module",
   "scripts": {
-    "start": "node kamu_cantik.js"
+    "start": "node kamu-cantik.js"
   },
   "author": "Raol Mukarrozi",
   "dependencies": {
